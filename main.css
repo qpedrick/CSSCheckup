@@ -1,0 +1,24 @@
+/* 1 */
+body {
+    background-color: lightsteelblue;
+    margin: 100px;
+    text-align: center;
+    border: 27px solid black;
+}
+
+/* 2 */
+.css-classes {
+    background-color: rgb(79, 167, 221);
+}
+
+/* 3 */
+#iframe-padding {
+    border: 5px solid black;
+    margin-top: 33px;
+    margin-right: 66px;
+    margin-left: 66px;
+    margin-bottom: 33px;
+    padding: 20px 20px 20px 20px
+}
+
+/* 4 */
